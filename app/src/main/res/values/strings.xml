@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoTypeView</string>
+    <string-array name="pet">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Dragon</item>
+        <item>Chicken</item>
+        <item>Snake</item>
+        <item>Turtle</item>
+        <item>Bird</item>
+    </string-array>
+</resources>
